@@ -3,3 +3,4 @@
 # pending to deploy for testing
 # working in dev environment
 # aws cloud notes
+# fixing defects in test environment before uploading code
